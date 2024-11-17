@@ -35,5 +35,8 @@ public class RevenueSort {
         int[] rentalPrices = {550, 450, 250, 150, 300};
         System.out.println("Original Rental Prices: " + Arrays.toString(rentalPrices));
         System.out.println("Sorted Rental Prices: " + Arrays.toString(SortRentalPrices(rentalPrices)));
+        
+// test
+        
     }
 }
